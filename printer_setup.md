@@ -1,5 +1,5 @@
 ---
-title: Network Drives
+title: Printer Setup
 nav_order: 3
 ---
 
