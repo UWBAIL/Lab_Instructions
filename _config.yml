@@ -1,8 +1,11 @@
+# Set the theme to Just the Docs
+remote_theme: just-the-docs/just-the-docs
+
 # The title of your site
 title: BAIL Lab Instructions
 
-# This is how you choose a theme. "cayman" is a great default.
-theme: jekyll-theme-cayman
+# A short description of your site
+description: Guides for accessing and using lab resources.
 
-sass:
-  sass_dir: assets/css
+# Optional: Add a footer message
+footer_content: "Contact Thanu (thanu56@uw.edu) for access or issues."
