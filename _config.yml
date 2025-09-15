@@ -3,3 +3,6 @@ title: BAIL Lab Instructions
 
 # This is how you choose a theme. "cayman" is a great default.
 theme: jekyll-theme-cayman
+
+sass:
+  sass_dir: assets/css
