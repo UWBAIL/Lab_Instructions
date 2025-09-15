@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*
+ * Custom color overrides for BAIL Lab Docs
+*/
+
+// Header colors
+$header-bg-color: #582C83; // A deep UW purple
+$header-bg-color-secondary: #4b2e83; // A slightly darker purple for the stripe
+
+// Link colors
+$link-color: #B7A57A; // A UW gold/yellow for links
+$body-heading-color: #333; // Keep headings dark and readable
