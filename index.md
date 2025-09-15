@@ -8,7 +8,7 @@ nav_order: 1
 
 Welcome to the official user guide for the BAIL Lab. This site contains all the information you need to connect to lab resources like network drives and printers.
 
-Use the navigation sidebar on the left to find the guide you need.
+Use the navigation sidebar to find the guide you need.
 
 ## Getting Started
 
