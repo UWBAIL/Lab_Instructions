@@ -2,6 +2,10 @@
 
 Welcome to the guide for accessing and using remote network drives (NAS, Data2, and Data3) in the BAIL Lab.
 
+### Table of Contents
+*   **[Network Drive Connection Guide](index.html)**
+*   **[Lab Printer Setup Guide](printer-setup.html)**
+
 > **Important Prerequisite: Get Your Login Details**
 > Before you begin, you must have a username and password. Please contact Thanu (`thanu56@uw.edu`) to have your account set up.
 
