@@ -5,7 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 title: BAIL Lab Instructions
 
 # A short description of your site
-description: Guides for accessing and using lab resources.
+#description: Guides for accessing and using lab resources.
 
 # Set the color scheme
 color_scheme: light # Or 'dark' if you prefer
