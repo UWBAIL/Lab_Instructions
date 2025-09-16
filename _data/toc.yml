@@ -1,0 +1,9 @@
+- title: Network Guides
+  url: /network-guides.html
+- title: Connecting to Network Drives
+  url: /network_drives.html
+  subfolderitems:
+    - title: Mac OS
+      url: /network_drives_Mac.html
+- title: Printer Setup
+  url: /printer_setup.html
