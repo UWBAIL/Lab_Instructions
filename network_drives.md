@@ -1,6 +1,7 @@
 ---
 title: Network Drives (Windows)
-nav_order: 2
+parent: Network Drive Guides
+nav_order: 1 
 ---
 
 # BAIL Lab: Network Drive Instructions
