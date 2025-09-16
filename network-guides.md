@@ -11,4 +11,4 @@ Please select your operating system from the navigation menu on the left to see 
 - **[Windows Guide]({% link network_drives.md %})**
 - **[macOS Guide]({% link network_drives_Mac.md %})**
 
-These guides will walk you through connecting to the lab's NAS, Data2, and Data3 servers.
+These guides will walk you through connecting to the lab's NAS, Data2, and Data3 servers
