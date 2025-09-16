@@ -1,20 +1,5 @@
 # Set the theme to Just the Docs
-remote_theme: just-the-docs/just-the-docs
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 
 # The title of your site (WITH SPACES)
 title: BAIL Lab Instructions
-
-# A short description of your site
-#description: Guides for accessing and using lab resources.
-
-# Set the color scheme
-color_scheme: light # Or 'dark' if you prefer
-
-# Optional: Add a footer message
-footer_content: "Contact Thanu (thanu56@uw.edu) for access or issues."
-
-# Optional: Add a link to the main lab website in the top navigation
-just_the_docs:
-  aux_links:
-    "BAIL Lab Home":
-      - "https://bioeng.uw.edu/research-labs/bail/"
