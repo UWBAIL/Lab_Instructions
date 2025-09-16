@@ -1,10 +1,7 @@
 ---
-title: Network Drive Guides
-nav_order: 2
-has_children: true
+title: Network Guides
 ---
 
-# Connecting to Network Drives
+# Network Guides
 
-Please select your operating system from the navigation menu on the left to see detailed connection instructions.
-These guides will walk you through connecting to the lab's NAS, Data2, and Data3 servers
+Please select your operating system from the navigation menu on the left to see detailed connection instructions. These guides will walk you through connecting to the lab's NAS, Data2, and Data3 servers.
