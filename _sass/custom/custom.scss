@@ -1,0 +1,29 @@
+// _sass/custom/custom.scss
+
+// Targeting the container of the title
+.sidebar .site-header {
+  padding-bottom: 0.5rem; // Reduce default padding below the header. Try 0rem for no padding.
+}
+
+// Targeting the title itself
+.sidebar .site-title {
+  margin-bottom: 0.5rem; // Reduce default margin below the title. Try 0rem for no margin.
+}
+
+// Targeting the navigation container
+.sidebar .site-nav {
+  margin-top: 0.5rem; // Reduce default margin above the nav. Try 0rem for no margin.
+  padding-top: 0;    // Ensure no extra padding inside the nav container
+}
+
+// Targeting the actual unordered list of links
+.sidebar .nav-list {
+  margin-top: 0;     // Explicitly set the top margin of the list to 0
+  padding-top: 0;    // Explicitly set the top padding of the list to 0
+}
+
+// Sometimes the first list item might have its own top margin/padding
+.sidebar .nav-list > li:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
