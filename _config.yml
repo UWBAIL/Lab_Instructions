@@ -1,5 +1,5 @@
 # Set the theme to Just the Docs
-remote_theme: poole/hyde
+remote_theme: just-the-docs/just-the-docs
 
 # The title of your site (WITH SPACES)
 title: BAIL Lab Instructions
