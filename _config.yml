@@ -6,6 +6,10 @@ remote_theme: aksakalli/jekyll-doc-theme # Removed @gh-pages for robustness; def
 title: BAIL Lab Instructions
 description: Essential guides and instructions for the BAIL Lab.
 
+collections:
+  docs:
+    output: true
+
 # Optional: Set a base URL if you're deploying to a project page (e.g., yourusername.github.io/your-repo-name)
 # If your site is at username.github.io, you don't need this or it should be an empty string.
 # For a project page, uncomment and replace "your-repo-name":
