@@ -1,0 +1,29 @@
+# Main navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "Documentation"
+    url: /docs/
+
+# Documentation navigation (for sidebar)
+docs:
+  - title: Getting Started
+    children:
+      - title: "Welcome"
+        url: /
+      - title: "Account Setup"
+        url: /docs/account-setup/
+  
+  - title: Network Guides
+    children:
+      - title: "Windows Network"
+        url: /docs/windows-network/
+      - title: "Mac Network"
+        url: /docs/mac-network/
+  
+  - title: Printer Guides
+    children:
+      - title: "Windows Printer"
+        url: /docs/windows-printer/
+      - title: "Mac Printer"
+        url: /docs/mac-printer/
