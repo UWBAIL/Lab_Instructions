@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Mac Network Guide
-parent: Network Guides
-nav_order: 2
-permalink: /network-guides/mac/
+permalink: /docs/network/mac/
 ---
 
 # BAIL Lab: Network Drive Instructions (macOS)
