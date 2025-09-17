@@ -1,5 +1,33 @@
-# Set the theme to Just the Docs
-remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+# Set the theme
+remote_theme: aksakalli/jekyll-doc-theme # Removed @gh-pages for robustness; default branch is usually 'main'
+                                         # If you specifically need gh-pages, keep it.
 
 # The title of your site (WITH SPACES)
 title: BAIL Lab Instructions
+description: Essential guides and instructions for the BAIL Lab.
+
+# Optional: Set a base URL if you're deploying to a project page (e.g., yourusername.github.io/your-repo-name)
+# If your site is at username.github.io, you don't need this or it should be an empty string.
+# For a project page, uncomment and replace "your-repo-name":
+# baseurl: "/your-repo-name"
+
+# Permalinks for clean URLs (e.g., /network-guides/windows/)
+permalink: pretty
+
+# Exclude any files/folders from being processed by Jekyll
+exclude:
+  - README.md
+  - LICENSE
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins (jekyll-remote-theme is typically handled by GitHub Pages implicitly)
+plugins:
+  - jekyll-remote-theme # Good practice to list, though GH Pages might not strictly need it for remote_theme
