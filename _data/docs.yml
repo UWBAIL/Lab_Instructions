@@ -1,0 +1,9 @@
+- title: Network Guides   # This is the top-level, clickable parent title
+  docs:                  # A list of pages under this parent
+  - windows-network      # Refers to _docs/windows-network.md
+  - mac-network          # Refers to _docs/mac-network.md
+
+- title: Printer Guides  # This is the second parent title
+  docs:                  # A list of pages under this parent
+  - windows-printer      # Refers to _docs/windows-printer.md
+  - mac-printer  
