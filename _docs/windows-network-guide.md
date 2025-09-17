@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Windows Network Guide
-parent: Network Guides # This creates the "Network Guides" section in the sidebar
-nav_order: 1           # Order within the "Network Guides" section
-permalink: /network-guides/windows/ # Creates a clean URL: yourdomain.com/network-guides/windows/
+permalink: /docs/network/windows/
 ---
 
 # BAIL Lab: Network Drive Instructions
