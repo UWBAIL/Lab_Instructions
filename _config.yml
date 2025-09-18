@@ -1,8 +1,6 @@
 # Site settings
 title: "BAIL Lab Instructions"
 description: "Essential guides and instructions for the BAIL Lab"
-url: "https://sivathanukumar.github.io"
-baseurl: "" # for username.github.io or "/repo-name" for project pages
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
